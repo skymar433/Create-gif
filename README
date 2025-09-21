@@ -1,0 +1,8 @@
+# Create a GIF with Python 🖼️➡️🎞️
+
+This mini project stitches images into an animated GIF using `imageio`.
+
+## How to run
+```bash
+pip install imageio
+python create_gif.py
